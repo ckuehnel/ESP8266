@@ -36,12 +36,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "b52bd3e308b443df9b31dab48e5f8a99";
+char auth[] = "Your Auth Token";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "FRITZ!Box Fon WLAN 7390";
-char pass[] = "6610601496452117";
+char ssid[] = "Your SSID";
+char pass[] = "Your password";
 
 // default for Ledunia
 #define NUM_LEDS 4
