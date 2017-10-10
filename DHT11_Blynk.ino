@@ -42,12 +42,12 @@
 
 // You should get Auth Token in the Blynk App.
 // Go to the Project Settings (nut icon).
-char auth[] = "4920d832bb4d4b73a0cb96dd359bf90c";
+char auth[] = "Your Auth Token";
 
 // Your WiFi credentials.
 // Set password to "" for open networks.
-char ssid[] = "FRITZ!Box Fon WLAN 7390";
-char pass[] = "6610601496452117";
+char ssid[] = "Your SSID";
+char pass[] = "Your password";
 
 #define DHTPIN 2          // What digital pin we're connected to
 #define BUTTONPIN 3
