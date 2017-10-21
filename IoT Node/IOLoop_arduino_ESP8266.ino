@@ -1,9 +1,9 @@
 //
 // Title        : IO Loop
 // Author       : Claus Kuehnel
-// Date         : 2015-11-18
-// Id		        : IOLoop_arduino_ESP8266.ino
-// Version      : 1.7.8
+// Date         : 2016-10-20
+// Id		    : IOLoop_arduino_ESP8266.ino
+// Version      : 1.8.5
 // based on     : 
 //
 // DISCLAIMER:
