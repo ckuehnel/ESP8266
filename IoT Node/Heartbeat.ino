@@ -1,6 +1,7 @@
 /*
   Heartbeat on ESP8266 
-  
+  (c) Claus Kuehnel 2017-10-12 info@ckuehnel.ch
+    
   The Ticker object is used to call the function heartbeat
   with a defined period and on-time. The built-in LED will be blinking.
   
