@@ -2,7 +2,7 @@
 // Title        : Sieve of Eratosthenes
 // Author       : Claus Kuehnel
 // Date         : 2017-10-16
-// Id		        : sieve_arduino_ESP8266.ino
+// Id		: sieve_arduino_ESP8266.ino
 // Version      : 1.8.5
 // based on     : sieve.pde from 2010
 //
